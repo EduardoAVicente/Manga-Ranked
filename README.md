@@ -40,13 +40,21 @@ Nosso projeto é uma iniciativa de um site livre para leitores e apreciadores da
 
 ## 3.	Requisitos Não Funcionais
 **RNF1**: Disponibilidade: 24/7
+
 **RNF2**: Autenticação de dados: login
+
 **RNF3**: Fácil interação com o site por conta da interatividade de ícones intuitivos
+
 **RNF4**: Para obtermos alto desempenho utilizaremos uma VPS (Servidor Virtual Privado).
+
 **RNF5**: Código fonte baseado em linguagem Python e JavaScript
+
 **RNF6**: Sistema de ranqueamento de obras através da média entre avaliações e quantidade das avaliações
+
 **RNF7**: Utilização de criptografia de dados, como senha e email como medida de segurança
+
 **RNF8**: Hospedagem de dados e obras em banco de dados PostgreSQL
+
 **RNF9**: Poderá ser acessado em dispositivos móveis(celular, tablet) e computadores.
 
 ## 4.	Diagrama de Casos de uso
