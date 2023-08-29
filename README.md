@@ -1,4 +1,4 @@
-![image](https://github.com/EduardoAVicente/Manga-Ranked/assets/97367813/56790856-e446-4e5d-8d44-d2b6179dd5b3)
+![image](https://github.com/EduardoAVicente/Manga-Ranked/assets/97367813/932be58d-390c-4c85-a174-6cfaf2e27c6d)
 
 
 # Manga-Ranked
