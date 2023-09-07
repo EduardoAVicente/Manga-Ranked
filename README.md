@@ -63,9 +63,15 @@ Nosso projeto é uma iniciativa de um site livre para leitores e apreciadores da
 
 
 ## 5.	Especificação de Casos de uso
-![image](https://github.com/EduardoAVicente/Manga-Ranked/assets/92233185/fce14228-7902-4d6b-9aa2-9bee116913bc)
-![image](https://github.com/EduardoAVicente/Manga-Ranked/assets/92233185/86c768e8-e983-4c9e-b6a3-d5626dd18cb9)
-![image](https://github.com/EduardoAVicente/Manga-Ranked/assets/92233185/045b9fc3-1839-417f-9dc3-f440e1f4b77a)
-![image](https://github.com/EduardoAVicente/Manga-Ranked/assets/92233185/2e04b8b2-76a6-4fc7-b6fa-2bdc0397d5f3)
-![image](https://github.com/EduardoAVicente/Manga-Ranked/assets/92233185/16b72bb4-98f1-428c-b1d7-8334ddf5aed1)
+![image](https://github.com/EduardoAVicente/Manga-Ranked/assets/92233185/6ae464b1-ce9a-4c5a-80c8-23bb7bfb8430)
+![image](https://github.com/EduardoAVicente/Manga-Ranked/assets/92233185/91834e13-018c-4fc7-ac29-b72503960a4d)
+![image](https://github.com/EduardoAVicente/Manga-Ranked/assets/92233185/58e054aa-328d-4eb4-a52d-34fbb1086472)
+![image](https://github.com/EduardoAVicente/Manga-Ranked/assets/92233185/f843bb9c-7562-4d53-af28-a2472f5a11ae)
+![image](https://github.com/EduardoAVicente/Manga-Ranked/assets/92233185/80409698-6f05-4a01-9010-5cd4fce5472d)
+![image](https://github.com/EduardoAVicente/Manga-Ranked/assets/92233185/6426c4e6-d6cc-4f68-aaa9-0dce1caf5b37)
+![image](https://github.com/EduardoAVicente/Manga-Ranked/assets/92233185/805f0de0-aacf-4b73-a05d-aaf55c35adf6)
+![image](https://github.com/EduardoAVicente/Manga-Ranked/assets/92233185/2cb127e9-f7be-4526-bd1b-902a3fdc749d)
+![image](https://github.com/EduardoAVicente/Manga-Ranked/assets/92233185/b4c0f657-2b46-4c0c-9512-ef3f9d95c3b6)
+
+
 
