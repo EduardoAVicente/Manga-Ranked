@@ -74,7 +74,9 @@ Nosso projeto é uma iniciativa de um site livre para leitores e apreciadores da
 ![image](https://github.com/EduardoAVicente/Manga-Ranked/assets/92233185/b4c0f657-2b46-4c0c-9512-ef3f9d95c3b6)
 
 ## 6.Diagrama de classes
-![Diagrama de classes drawio](https://github.com/EduardoAVicente/Manga-Ranked/assets/92233185/c0aab816-209e-4868-b5a3-240c668d6bad)
+![Diagrama de classes](https://github.com/EduardoAVicente/Manga-Ranked/assets/97367813/0fe0dcc3-66c5-4e53-84bb-d95c610cc4a8)
 
+##7.Diagrama de Objetos
+![Diagrama de objeto](https://github.com/EduardoAVicente/Manga-Ranked/assets/97367813/ee5b77fa-1fd4-402e-ada1-54e7bee6a7e4)
 
 
