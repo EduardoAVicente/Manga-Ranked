@@ -77,6 +77,7 @@ Nosso projeto é uma iniciativa de um site livre para leitores e apreciadores da
 ![Diagrama de classes](https://github.com/EduardoAVicente/Manga-Ranked/assets/97367813/107bfcf3-6700-4c96-882c-47b343d19b8b)
 
 ## 7.Diagrama de Objetos
+
 ![Diagrama de objeto](https://github.com/EduardoAVicente/Manga-Ranked/assets/97367813/ee5b77fa-1fd4-402e-ada1-54e7bee6a7e4)
 
 
