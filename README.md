@@ -13,7 +13,7 @@ JOAO PEDRO F. B. DOS SANTOS
 
 
 ## 1.	Objetivo do Projeto
-      Nosso projeto é uma iniciativa de um site livre para leitores e apreciadores da cultura oriental escrita em quadrinhos. Nosso site tem a funcionalidade de receber críticas positivas e negativas, dos fãs de mangás e manhwas, além de disponibilizar uma breve sinopse do título, além de também ranquear os quadrinhos de acordo com opinião da comunidade.
+Nosso projeto é uma iniciativa de um site livre para leitores e apreciadores da cultura oriental escrita em quadrinhos. Nosso site tem a funcionalidade de receber críticas positivas e negativas, dos fãs de mangás e manhwas, além de disponibilizar uma breve sinopse do título, além de também ranquear os quadrinhos de acordo com opinião da comunidade.
 
 ## 2.	Requisitos Funcionais
 **RF1**: O usuário poderá acessar a página de uma obra sem ter que realizar o Cadastro ou o Login
